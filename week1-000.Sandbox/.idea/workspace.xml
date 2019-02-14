@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0dd161c-f3b3-48a6-afa4-f67c763eeed1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../week1-022.Password/src/Password.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-022.Password/src/Password.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1-023.Temperatures/src/Temperatures.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-023.Temperatures/src/Temperatures.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1-024.NhlStatisticsPart2/src/NhlStatisticsPart2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-024.NhlStatisticsPart2/src/NhlStatisticsPart2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2-025.SumOfThreeNumbers/week2-025.SumOfThreeNumbers.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,10 +16,10 @@
     <session id="1080920927">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
     </session>
@@ -66,7 +65,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -79,6 +77,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -111,12 +110,13 @@
       <option name="presentableId" value="Default" />
       <updated>1549320028572</updated>
       <workItem from="1549320032468" duration="23000" />
-      <workItem from="1550109272507" duration="266000" />
+      <workItem from="1550109272507" duration="718000" />
+      <workItem from="1550110047586" duration="768000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="289000" />
+    <option name="totallyTimeSpent" value="1509000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2275" y="119" width="1680" height="1027" extended-state="0" />
@@ -136,12 +136,12 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.39251336" />
       <window_info anchor="bottom" id="Docker" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="TMC Test Results" order="12" />
+      <window_info anchor="bottom" id="TMC Test Results" order="12" visible="true" weight="0.32941177" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
